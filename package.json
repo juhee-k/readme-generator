@@ -1,0 +1,23 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "Making a readme generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juhee-k/readme-generator.git"
+  },
+  "keywords": [
+    "readme",
+    "axios"
+  ],
+  "author": "Juhee Kim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juhee-k/readme-generator/issues"
+  },
+  "homepage": "https://github.com/juhee-k/readme-generator#readme"
+}
