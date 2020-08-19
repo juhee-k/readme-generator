@@ -1,11 +1,11 @@
 
-# awesome-readme-generator
+# juhee-k-readme
 
 ## Licensed Under
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Table Contents
-undefined
+test and homework to shpw you how to mske readme file
 
 ## Installation Instruction
 ```
