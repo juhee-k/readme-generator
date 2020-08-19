@@ -31,9 +31,8 @@ const questions = [
   },
   {
     type: 'input',
-    name: 'xont',
-    message: 'What are the contents?',
-    default: ""
+    name: 'cont',
+    message: 'What are the contents?'
   },
   {
   type: 'list',
